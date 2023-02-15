@@ -87,6 +87,9 @@
         </div>
       </form>
     </div>
+    <div class="img-position">
+        <img src="@/assets/images/nomitek.gif" class="image" alt="nomitek image">
+    </div>
   </div>
 </template>
 
