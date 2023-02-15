@@ -1,0 +1,11 @@
+body {
+    background-color: #001e26;
+    color: white;
+  }
+  
+  .title {
+      background-color: #012b36;
+      display: flex;
+      justify-content: center;
+      padding: 2% 0 2% 0;
+  }
